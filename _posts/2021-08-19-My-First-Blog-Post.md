@@ -1,6 +1,6 @@
 ---
 title: "First blog post"
-date: 2021-07-19
+date: 2021-08-19
 ---
 
 Welcome to **Code To Learn(CTL)** Blog. This blogs aims to host articles written by members of the CTL community. The main topics include software development and aritificial intelligence as well as everything related technology and problem solving. 
